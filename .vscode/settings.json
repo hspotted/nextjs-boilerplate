@@ -1,0 +1,8 @@
+{
+  "editor.formatOnSave": true,
+  "editor.fontSize": 20,
+  "editor.lineHeight": 30,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  }
+}
